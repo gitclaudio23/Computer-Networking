@@ -26,15 +26,15 @@ Sebelum menjalankan script, pastikan Raspberry Pi Anda sudah terinstal Python 3.
 ```bash
 python3 --version
 
-2. Membuat dan Menyimpan Script
+### 2. Membuat dan Menyimpan Script
 Buka terminal pada Raspberry Pi.
 
 Buat file baru untuk menyimpan script Python dengan perintah berikut:
 
 bash
 Copy code
-nano ping.py
-Salin dan tempelkan kode berikut ke dalam file ping.py:
+nano uts.py
+Salin dan tempelkan kode berikut ke dalam file uts.py:
 
 python
 Copy code
