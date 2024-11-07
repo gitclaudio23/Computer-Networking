@@ -1,2 +1,2 @@
 # Computer-Networking
-A Pack of Projects about Computer Nteworking and Network Programming
+A Pack of Projects about Computer Networking and Network Programming
